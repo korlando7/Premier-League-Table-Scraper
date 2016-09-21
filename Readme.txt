@@ -1,0 +1,1 @@
+The purpose of this program is to gather data from the Premier League Soccer website from their fixture table. My goal was to be able to scrape the data with a python program and write it to an excel file each week, gathering info from each match. At the end of the season I would like to be able to do some sort of data analysis on season data if I feel the urge.
